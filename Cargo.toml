@@ -1,0 +1,10 @@
+[package]
+name = "planets"
+version = "0.1.0"
+authors = ["ffwff <mogamiriver@tuta.io>"]
+edition = "2018"
+
+[dependencies]
+kiss3d = "0.20.1"
+nalgebra = "0.18.0"
+ncollide3d = "0.19.1"
